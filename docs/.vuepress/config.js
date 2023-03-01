@@ -26,6 +26,12 @@ export default defineUserConfig({
     navbar: [
       // NavbarGroup
       {
+        text: '产品',link: '/pd/',
+      },
+      {
+        text: '数学与算法',link: '/math/',
+      },
+      {
         text: '选择语言',
         children: [
           { text: 'Swift', link: '/languages/swift/', },
@@ -42,9 +48,6 @@ export default defineUserConfig({
           { text: 'SQL', link: '/languages/sql/', },
         ],
       },
-      {
-        text: '数学与算法',link: '/math/',
-      },
     ],
 
     // https://v2.vuepress.vuejs.org/zh/reference/default-theme/config.html#sidebar
@@ -55,6 +58,16 @@ export default defineUserConfig({
           collapsible: true,
           children: [
             '/languages/swift/swift-lang/README.md'
+          ],
+        },
+      ],
+      '/pd/': [
+        {
+          text: '产品',
+          collapsible: true,
+          children: [
+            //'/pd/README.md',
+            '/pd/axure.md',
           ],
         },
       ],
