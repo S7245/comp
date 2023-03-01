@@ -42,6 +42,9 @@ export default defineUserConfig({
           { text: 'SQL', link: '/languages/sql/', },
         ],
       },
+      {
+        text: '数学与算法',link: '/math/',
+      },
     ],
 
     // https://v2.vuepress.vuejs.org/zh/reference/default-theme/config.html#sidebar
