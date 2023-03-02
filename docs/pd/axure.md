@@ -9,6 +9,7 @@
 | `Shift+CMD+]` | 最顶层 | `Shift+CMD+[` | 最底层 |
 | `CMD+]` | 上移一层 | `CMD+[` | 下移一层 |
 | `Shift+CMD+ALT+M` | 设置为母版 | `Shift+CMD+ALT+B` | 脱离于母版 |
+| `CMD+ALT+[` | 开/关左侧功能栏 | `CMD+ALT+]` | 开/关右侧功能栏 |
 
 布局相关：
 

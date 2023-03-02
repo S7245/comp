@@ -66,8 +66,8 @@ export default defineUserConfig({
           text: '产品',
           collapsible: true,
           children: [
-            //'/pd/README.md',
             '/pd/axure.md',
+            '/pd/mockitt.md',
           ],
         },
       ],
