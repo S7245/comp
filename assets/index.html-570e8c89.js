@@ -1,0 +1,1 @@
+import{_ as t,p as s,q as a,R as e,t as r}from"./framework-efe98465.js";const c={},n=e("h1",{id:"rust",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#rust","aria-hidden":"true"},"#"),r(" Rust")],-1),o=[n];function _(d,i){return s(),a("div",null,o)}const l=t(c,[["render",_],["__file","index.html.vue"]]);export{l as default};

@@ -1,0 +1,1 @@
+import{_ as t,p as a,q as s,R as e,t as c}from"./framework-efe98465.js";const i={},n=e("h1",{id:"swiftui",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#swiftui","aria-hidden":"true"},"#"),c(" SwiftUI")],-1),r=[n];function o(_,d){return a(),s("div",null,r)}const h=t(i,[["render",o],["__file","index.html.vue"]]);export{h as default};

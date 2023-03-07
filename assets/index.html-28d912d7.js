@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-4abd29e9","path":"/languages/swift/","title":"Swift","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1677726369000,"contributors":[{"name":"S7245","email":"samlau0401@gmail.com","commits":2}]},"filePathRelative":"languages/swift/README.md"}');export{a as data};
