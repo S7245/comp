@@ -6,8 +6,7 @@ import { backToTopPlugin } from '@vuepress/plugin-back-to-top'
 // npm i -D @vuepress/plugin-medium-zoom@next
 import { mediumZoomPlugin } from '@vuepress/plugin-medium-zoom'
 
-// npm i -D @vuepress/plugin-theme-default@next
-import { defaultTheme } from '@vuepress/theme-default'
+import { defaultTheme } from 'vuepress'
 
 export default defineUserConfig({
   lang: 'zh-CN',
