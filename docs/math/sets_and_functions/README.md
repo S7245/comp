@@ -4,8 +4,9 @@
 
 <iframe id="embed_dom" name="embed_dom" frameborder="0" style="display:block;margin-left:0; margin-top:0;width:100%; height:500px;" src="https://www.processon.com/embed/6417ec40c707d75639089b75"></iframe>
 
+数归纳：
 
-![](https://blogs7245-1256587996.cos.ap-guangzhou.myqcloud.com/img/WX20230320-1.png)
+<iframe id="embed_dom" name="embed_dom" frameborder="0" style="display:block;margin-left:0; margin-top:0;width:100%; height:500px;" src="https://www.processon.com/embed/641805cc3524617475040865"></iframe>
 
 ## 集合
 
