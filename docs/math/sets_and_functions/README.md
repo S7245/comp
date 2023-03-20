@@ -1,0 +1,13 @@
+# 集合与函数
+
+## 数
+
+<iframe id="embed_dom" name="embed_dom" frameborder="0" style="display:block;margin-left:0; margin-top:0;width:100%; height:500px;" src="https://www.processon.com/embed/6417ec40c707d75639089b75"></iframe>
+
+
+![](https://blogs7245-1256587996.cos.ap-guangzhou.myqcloud.com/img/WX20230320-1.png)
+
+## 集合
+
+[集合与函数](https://mp.weixin.qq.com/s?__biz=MzA5NzQ3NTk2MA==&mid=2651098922&idx=5&sn=325388be97d394b41c744531f8821fc2&chksm=8b50633dbc27ea2bf99bc031ffe9141cd515f31a4e7181b7cb00372e9532881e7c97ae1acd2d&scene=27)
+

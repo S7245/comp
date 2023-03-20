@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-2d0aaf22","path":"/pd/","title":"产品","lang":"zh-CN","frontmatter":{},"headers":[{"level":2,"title":"功能模块","slug":"功能模块","link":"#功能模块","children":[]}],"git":{"updatedTime":1677812572000,"contributors":[{"name":"S7245","email":"samlau0401@gmail.com","commits":2}]},"filePathRelative":"pd/README.md"}');export{e as data};

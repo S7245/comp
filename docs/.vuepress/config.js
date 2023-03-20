@@ -13,6 +13,7 @@ export default defineUserConfig({
   title: '计算机',
   description: '这是我的第一个 VuePress 站点',
   base: '/comp/',
+  port: '8089',
 
   plugins: [
     backToTopPlugin(),
@@ -25,10 +26,10 @@ export default defineUserConfig({
     navbar: [
       // NavbarGroup
       {
-        text: '产品',link: '/pd/',
+        text: '产品', link: '/pd/',
       },
       {
-        text: '数学与算法',link: '/math/',
+        text: '数学与算法', link: '/math/',
       },
       {
         text: '选择语言',
@@ -65,13 +66,25 @@ export default defineUserConfig({
           text: '产品',
           collapsible: true,
           children: [
+            '/pd/README.md',
             '/pd/prd_c.md',
             '/pd/prd_b.md',
             '/pd/axure.md',
             '/pd/mockitt.md',
+            '/pd/task.md',
           ],
         },
       ],
+      '/math/':
+        [
+          {
+            text: '集合与函数',
+            collapsible: true,
+            children: [
+              '/math/sets_and_functions/README.md',
+            ],
+          }
+        ]
     },
   }),
 })
