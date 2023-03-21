@@ -29,6 +29,9 @@ export default defineUserConfig({
         text: '产品', link: '/pd/',
       },
       {
+        text: 'AI', link: '/ai/',
+      },
+      {
         text: '数学与算法', link: '/math/',
       },
       {
@@ -46,6 +49,7 @@ export default defineUserConfig({
           { text: 'CSS', link: '/languages/css/', },
           { text: 'JavaScript', link: '/languages/js/', },
           { text: 'SQL', link: '/languages/sql/', },
+          { text: 'SQL', link: '/languages/machine_learning/', },
         ],
       },
     ],
