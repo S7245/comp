@@ -40,6 +40,7 @@ function navbar() {
       children: [
         { text: 'AI', link: '/ai/', },
         { text: '前沿技术资讯', link: '/tec_notes/', },
+        { text: '网络', link: '/netsafe/', },
       ],
     },
     {
@@ -106,6 +107,15 @@ function sidebar() {
         collapsible: true,
         children: [
           '/ai/README.md',
+        ],
+      }
+    ],
+    '/netsafe/': [
+      {
+        text: '网络',
+        collapsible: true,
+        children: [
+          '/netsafe/README.md',
         ],
       }
     ],
