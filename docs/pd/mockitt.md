@@ -1,10 +1,11 @@
 # 墨刀
 
-- 使用属性
+- 捷键Ctrl+C（Mac： conmand+C）复制后，再Ctrl+alt+V（Mac：conmand+option+V）粘贴属性。
+- [渐变色教程](https://b23.tv/rJBZ5oy)
+- 
+
 
 ## 快捷键
-
-捷键Ctrl+C（Mac： conmand+C）复制后，再Ctrl+alt+V（Mac：conmand+option+V）粘贴属性即可。
 
 ### 创建
 
