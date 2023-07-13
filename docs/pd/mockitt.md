@@ -4,6 +4,8 @@
 
 ## 快捷键
 
+捷键Ctrl+C（Mac： conmand+C）复制后，再Ctrl+alt+V（Mac：conmand+option+V）粘贴属性即可。
+
 ### 创建
 
 | 功能 | 快捷键 |  功能 | 快捷键 |
