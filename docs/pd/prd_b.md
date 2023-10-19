@@ -172,3 +172,9 @@
 ![](https://blogs7245-1256587996.cos.ap-guangzhou.myqcloud.com/img/20230304-00001.png)
 
 [资料](https://www.woshipm.com/pd/5702035.html)
+
+## 表单权限
+
+表单字段的权限控制：
+
+
