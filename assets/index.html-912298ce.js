@@ -1,0 +1,1 @@
+import{_ as t,p as a,q as s,R as e,t as c}from"./framework-8c5a1526.js";const n={},r=e("h1",{id:"swift",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#swift","aria-hidden":"true"},"#"),c(" Swift")],-1),o=[r];function i(_,d){return a(),s("div",null,o)}const h=t(n,[["render",i],["__file","index.html.vue"]]);export{h as default};

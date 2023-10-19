@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-24b3ecbe","path":"/netsafe/","title":"网络","lang":"zh-CN","frontmatter":{},"headers":[{"level":2,"title":"路由器","slug":"路由器","link":"#路由器","children":[]}],"git":{"updatedTime":1688693657000,"contributors":[{"name":"S7245","email":"samlau0401@gmail.com","commits":1}]},"filePathRelative":"netsafe/README.md"}');export{e as data};
