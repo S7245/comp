@@ -28,3 +28,21 @@
 大模型是一个系统工程，算法、数据和算力这三个因素至关重要。
 
 ![](https://blogs7245-1256587996.cos.ap-guangzhou.myqcloud.com/img/WX20230321-1.webp)
+
+## Docusaurus 博客安装
+
+```text
+Module parse failed: Unexpected token (961:17)
+You may need an appropriate loader to handle this file type, currently no loaders are configured to process this file. See https://webpack.js.org/concepts#loaders
+|       'special-attr': [],
+|       'attr-value': {
+>         pattern: /=\s*(?:"[^"]*"|'[^']*'|[^\s'">=]+)/,
+|         inside: {
+|           'punctuation': [{
+client (webpack 5.89.0) compiled with 1 error
+```
+
+```sh
+# https://github.com/facebook/docusaurus/issues/9459
+npm i acorn@8.10.0
+```

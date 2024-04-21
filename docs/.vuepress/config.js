@@ -77,6 +77,16 @@ function navbar() {
                         },
                     ],
                 },
+                {
+                    text: 'JS', children: [
+                        {
+                            text: 'The JS Program Language', link: '/languages/js/js-lang/'
+                        },
+                    ],
+                },
+                {
+                    text: 'Shell', link: '/languages/shell/',
+                },
                 // {
                 //     text: 'Swift', link: '/languages/swift/',
                 // },
@@ -120,6 +130,15 @@ function navbar() {
 
 function sidebar() {
     return {
+        '/languages/js/js-lang/': [
+            {
+                text: '语法',
+                collapsible: true,
+                children: [
+                    '/languages/js/js-lang/README.md'
+                ],
+            },
+        ],
         '/languages/swift/': [
             {
                 text: '语法',
@@ -143,7 +162,8 @@ function sidebar() {
                 text: 'React语法',
                 collapsible: true,
                 children: [
-                    '/languages/react/react-lang/README.md'
+                    '/languages/react/react-lang/README.md',
+                    '/languages/react/react-lang/bulid-your-app.md',
                 ],
             },
         ],
