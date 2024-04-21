@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-14f0dace","path":"/math/","title":"数学与算法","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1679319875000,"contributors":[{"name":"S7245","email":"samlau0401@gmail.com","commits":2}]},"filePathRelative":"math/README.md"}');export{a as data};
